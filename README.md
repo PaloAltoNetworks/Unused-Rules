@@ -22,8 +22,10 @@ var (
 	)
 ```
 
+
 # Sample Output
-`*****Rules with Zero Hit Count*****
+`
+*****Rules with Zero Hit Count*****
 Name:Block_Malicious_Inbound HitCount:0
 
 Name:Office-To-Lab-Networks HitCount:0
@@ -42,4 +44,5 @@ Name:External-To-CIE HitCount:0
 
 Name:External-To-All-No-Profile HitCount:0
 
-***** Rules with no hit count for the last 10 Months *****`
+***** Rules with no hit count for the last 10 Months *****
+`
